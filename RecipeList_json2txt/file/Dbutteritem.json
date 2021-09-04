@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "Dbutteritem",
+    "count": 2
+  },
+
+  "ingredients": [
+    {
+      "ore": "toolA"
+    },
+    {
+      "ore": "cropD"
+    },
+    {
+      "ore": "Oliveoil"
+    }
+  ]
+}

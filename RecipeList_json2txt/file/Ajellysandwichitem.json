@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "Ajellysandwichitem"
+  },
+
+  "ingredients": [
+    {
+      "ore": "toolC"
+    },
+    {
+      "ore": "Dbutteritem"
+    },
+    {
+      "ore": "foodAjelly"
+    },
+    {
+      "ore": "Flour"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "Ayogurtitem"
+  },
+
+  "ingredients": [
+    {
+      "ore": "cropA"
+    },
+    {
+      "ore": "Milk"
+    }
+  ]
+}

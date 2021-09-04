@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "fishpepperonipizzaitem"
+  },
+
+  "ingredients": [
+    {
+      "ore": "toolB"
+    },
+    {
+      "ore": "Flour"
+    },
+    {
+      "ore": "cropC"
+    },
+    {
+      "ore": "Milk"
+    },
+    {
+      "ore": "foodPepperoni"
+    },
+    {
+      "ore": "listAllfish"
+    }
+  ]
+}

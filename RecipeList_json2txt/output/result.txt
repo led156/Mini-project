@@ -1,0 +1,8 @@
+fishpepperonipizzaitem.json:1:1:1:0:0:1:0:1:0:1:0:foodPepperoni
+Apieitem.json:1:1:1:0:1:1:0:0:0:0:0
+Ajuiceitem.json:1:1:2:0:0:0:0:0:0:0:0
+Ajellyitem.json:1:1:1:0:1:0:0:0:0:0:0
+Ayogurtitem.json:1:0:1:0:0:0:0:1:0:0:0
+Ajellysandwichitem.json:1:1:0:0:0:1:0:0:0:0:0:Dbutteritem:foodAjelly
+Aburritoitem.json:1:0:1:0:0:0:0:1:1:0:0:toolCu:foodTortilla
+Dbutteritem.json:2:1:1:0:0:0:1:0:0:0:0

@@ -1,0 +1,56 @@
+{
+    "fishpepperonipizzaitem.json": [
+        1,
+        "toolB",
+        "Flour",
+        "cropC",
+        "Milk",
+        "foodPepperoni",
+        "listAllfish"
+    ],
+    "Apieitem.json": [
+        1,
+        "toolB",
+        "cropA",
+        "listAllsugar",
+        "Flour"
+    ],
+    "Ajuiceitem.json": [
+        1,
+        "toolA",
+        "cropA",
+        "cropA"
+    ],
+    "Ajellyitem.json": [
+        1,
+        "toolA",
+        "cropA",
+        "listAllsugar"
+    ],
+    "Ayogurtitem.json": [
+        1,
+        "cropA",
+        "Milk"
+    ],
+    "Ajellysandwichitem.json": [
+        1,
+        "toolC",
+        "Dbutteritem",
+        "foodAjelly",
+        "Flour"
+    ],
+    "Aburritoitem.json": [
+        1,
+        "toolCu",
+        "cropA",
+        "foodTortilla",
+        "Milk",
+        "listAllmeat"
+    ],
+    "Dbutteritem.json": [
+        2,
+        "toolA",
+        "cropD",
+        "Oliveoil"
+    ]
+}
