@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "Ajuiceitem"
+  },
+
+  "ingredients": [
+    {
+      "ore": "toolA"
+    },
+    {
+      "ore": "cropA"
+    },
+    {
+      "ore": "cropA"
+    }
+  ]
+}

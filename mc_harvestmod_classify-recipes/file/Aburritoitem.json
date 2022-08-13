@@ -1,0 +1,23 @@
+{
+  "result": {
+    "item": "Aburritoitem"
+  },
+  "group":"Aburritoitem",
+  "ingredients": [
+    {
+      "ore": "toolCu"
+    },
+    {
+      "ore": "cropA"
+    },
+    {
+      "ore": "foodTortilla"
+    },
+    {
+      "ore": "Milk"
+    },
+    {
+      "ore": "listAllmeat"
+    }
+  ]
+}

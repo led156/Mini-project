@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "A_sapling"
+  },
+  "group": "sapling",
+  "ingredients": [
+    {
+      "item": "Aitem"
+    },
+    {
+      "item": "Aitem"
+    },
+    {
+      "item": "Aitem"
+    },
+    {
+      "item": "sapling"
+    }
+  ]
+}
